@@ -4,7 +4,7 @@ A Socker.io project with Angular, and Node.js
 
 ## Main goal
 
-A small socker.io prototype with Angular.
+The purpose of the project is to build a working prototype with socket.io and test its use with angular + Typescript.
 
 ## Prerequisites
 
@@ -17,5 +17,3 @@ Install the dependencies in the socket-server and socket-client folder:
 ```
 npm install
 ```
-
-
